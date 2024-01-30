@@ -1,8 +1,8 @@
 ### Hi there , this is my personal repository.👋
-###I'm currently on my last year studying to get my Meng in Electrical and Computer Engineering.🌱
-###I am working on my thesis on Gravitational Waves Detection using Deep Learning with TensorFlow , Pytorch .🔭 
-###You can reach my on my Linkedin www.linkedin.com/in/konstantina-vasileiadou-98a78219b📫
-###Hope to see you around👯
+I'm currently on my last year studying to get my Meng in Electrical and Computer Engineering.🌱
+I am working on my thesis on Gravitational Waves Detection using Deep Learning with TensorFlow , Pytorch .🔭 
+You can reach my on my Linkedin www.linkedin.com/in/konstantina-vasileiadou-98a78219b📫
+Hope to see you around👯
 
 <!--
 **konstantina0/konstantina0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
