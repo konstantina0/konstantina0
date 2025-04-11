@@ -2,7 +2,7 @@
 
 I'm currently on my last year studying to get my Meng in Electrical and Computer Engineering.🌱
 
-I am working on my thesis on Gravitational Waves Detection using Deep Learning with TensorFlow , Pytorch .🔭 
+I am working on my thesis on Gravitational Waves Detection using Deep Learning 🔭 
 
 You can reach me on my Linkedin www.linkedin.com/in/konstantina-vasileiadou-98a78219b .📫
 
